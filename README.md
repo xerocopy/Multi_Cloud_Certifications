@@ -8,3 +8,6 @@
 
 ## Udemy course on AWS-machine-learning-speciallist
 ### [https://www.udemy.com/course/aws-machine-learning/learn/lecture/16609940?start=0#announcements](https://www.udemy.com/course/aws-machine-learning/learn/lecture/16609940?start=0#announcements)
+
+## Cloud_DE_docs
+### [https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
